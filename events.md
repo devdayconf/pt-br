@@ -4,14 +4,27 @@ title: events
 permalink: /events/
 ---
 
-<p>Here is a list of our upcoming events. :-)</p>
 
-{% if site.events %}
-<ul>
-{% for event in site.events reversed %}
-    <li>
-        <p><a href="{{ event.url }}">{{ event.title }}</a></p>
-    </li>
-{% endfor %}
-</ul>
+{% for event in site.events %}
+
+{% if event.redirect %}
+<div class="project">
+    <div class="thumbnail">
+        <a href="{{ event.redirect }}" target="_blank">
+            {% if event.img %}
+            <img class="thumbnail resize-img" src="{{ site.baseurl }}/{{ event.img }}"/>
+            {% else %}
+            <div class="thumbnail blankbox"></div>
+            {% endif %}
+                <h1>{{ event.title }}</h1>
+                <br/>
+                <p>{{ event.attendees }} attendees</p>                    
+            </a>
+    </div>
+</div>
 {% endif %}
+
+{% endfor %}
+
+
+
