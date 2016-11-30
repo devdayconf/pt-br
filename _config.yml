@@ -1,9 +1,9 @@
 # Site settings
-title: Pyladies Mendoza
-email: "mendoza@pyladies.com"
-description: PyLadies is an international group mentoring focused on helping more and more women to become active participants and leaders in the open-source Python community.
-url: "http://pkpacheco.github.io"
-baseurl: "/pyladies-mendoza"
+title: Dev Day Conference 
+email: "devdayconference@gmail.com"
+description: Event for all comunities..
+url: "http://devdayconf.github.io"
+# baseurl: "/"
 
 # twitter_username: pyladies_mendoza
 github_username: PKpacheco
@@ -11,22 +11,24 @@ github_username: PKpacheco
 # Build settings
 markdown: kramdown
 
-highlighter: blue
+highlighter: green
 
 # Pagination
 # paginate: 15
 # paginate_path: "/blog/page:num/"
 
+
+
 collections:
   home:
     output: true
     permalink: /home/:path/
-  home-es:
+  organizers:
     output: true
-    permalink: /home-es/:path/
-  ladies:
-    output: true
-    permalink: /ladies/:path/
+    permalink: /organizers/:path/
   events:
     output: true
     permalink: /events/:path/
+  contact:
+    output: true
+    permalink: /contact/:path/
