@@ -3,7 +3,7 @@ title: Dev Day Conference
 email: "devdayconference@gmail.com"
 description: Event for all comunities..
 url: "http://devdayconf.github.io"
-
+baseurl: "/devdayconf.github.io"
 # twitter_username: pyladies_mendoza
 github_username: PKpacheco
 
