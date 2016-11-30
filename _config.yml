@@ -1,6 +1,6 @@
 # Site settings
 title: Dev Day Conf 
-email: "devdayconference@gmail.com"
+email: "devdayconf@gmail.com"
 description: Event for all comunities..
 url: "http://devdayconf.github.io"
 baseurl: "/devdayconf"
