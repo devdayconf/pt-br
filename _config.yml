@@ -1,11 +1,11 @@
 # Site settings
-title: Dev Day Conference 
+title: Dev Day Conf 
 email: "devdayconference@gmail.com"
 description: Event for all comunities..
 url: "http://devdayconf.github.io"
 baseurl: "/"
 # twitter_username: pyladies_mendoza
-github_username: PKpacheco
+github_username: devdayconf
 
 # Build settings
 markdown: kramdown
