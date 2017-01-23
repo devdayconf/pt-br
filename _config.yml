@@ -4,8 +4,8 @@ email: "devdayconf@gmail.com"
 description: Event for all comunities..
 baseurl: "/devdayconf.github.io"
 # url: "/argentinadevday"
-twitter_username: _devdayconf
-github_username: devdayconf
+# twitter_username: _devdayconf
+# github_username: devdayconf
 
 # Build settings
 markdown: kramdown
