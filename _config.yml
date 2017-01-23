@@ -12,11 +12,6 @@ markdown: kramdown
 
 highlighter: green
 
-# Pagination
-# paginate: 15
-# paginate_path: "/blog/page:num/"
-
-
 
 collections:
   home:
@@ -25,6 +20,9 @@ collections:
   organizers:
     output: true
     permalink: /organizers/:path/
+  rules:
+    output: true
+    permalink: /rules/:path/
   events:
     output: true
     permalink: /events/:path/
