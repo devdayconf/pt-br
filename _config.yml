@@ -2,8 +2,8 @@
 title: Dev Day Conf 
 email: "devdayconf@gmail.com"
 description: Event for all comunities..
-url: "http://devdayconf.github.io"
-baseurl: "/devdayconf"
+baseurl: "/devdayconf.github.io"
+url: "gdg.org/argentinadevday"
 twitter_username: _devdayconf
 github_username: devdayconf
 
