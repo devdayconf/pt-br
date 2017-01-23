@@ -18,7 +18,10 @@ permalink: /events/
             {% endif %}
                 <h1>{{ event.title }}</h1>
                 <br/>
-                <p>{{ event.attendees }} attendees</p>                    
+                {% if event.attendees != 0 %}
+                    <p>{{ event.attendees }} attendees</p>         
+                {% endif %}
+      
             </a>
     </div>
 </div>
