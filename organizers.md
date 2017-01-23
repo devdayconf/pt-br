@@ -1,46 +1,25 @@
 ---
 layout: page
-title: organizers 
-permalink: /organizers/
+title: creator 
+permalink: /creator/
 ---
+<p> 
+<img src="{{ site.baseurl }}/img/organizers/paola.jpg" height="140" width="140" align="right" >
+<li>Python Developer.</li>
+<li>Systems Analyst, formed by Unesa (Brazil)</li>
 
-{% for organizer in site.organizers %}
+<li>Involved with communities:
+    <ul>Google Developers Group Rio de Janeiro, Mendoza</ul>
+    <ul>Women Techmakers</ul>
+    <ul>Pyladies Brazil, Rio de Janeiro</ul>
+    <ul>Co-creator of Pyladies Mendoza</ul>
+    <ul>Django Girls: Rio de Janeiro, Mendoza, Euro Python, Python Brazil</ul>
+</li>
 
-{% if organizer.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ organizer.redirect }}" target="_blank">
-        {% if organizer.img %}
-        <img class="thumbnail resize-img" src="{{ site.baseurl }}/{{ organizer.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}
-        <span>
-            <h1>{{ organizer.title }}</h1>
-            <br/>
-            <p>{{ organizer.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ organizer.url }}">
-        {% if organizer.img %}
-        <img class="thumbnail resize-img" src="{{ site.baseurl }}{{ organizer.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}
-        <span>
-            <h1>{{ organizer.title }}</h1>
-            <br/>
-            <p>{{ organizer.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
+<br>
+<li>Speaker at Euro Python 2016</li>
+<li>DevDay Conference Creator</li>
 
-{% endif %}
-
-{% endfor %}
+<li><a href="https://www.youtube.com/pkpacheco">Youtube channel with Django tutorials</a></li>
+<li><a href="about.me/pkcpweb">about.me/pkcpweb</a></li>
+</p>

@@ -17,9 +17,9 @@ collections:
   home:
     output: true
     permalink: /home/:path/
-  organizers:
+  creator:
     output: true
-    permalink: /organizers/:path/
+    permalink: /creator/:path/
   rules:
     output: true
     permalink: /rules/:path/
