@@ -1,7 +1,7 @@
 ---
 layout: page
-title: events
-permalink: /events/
+title: eventos
+permalink: /eventos/
 ---
 
 
@@ -19,7 +19,7 @@ permalink: /events/
                 <h1>{{ event.title }}</h1>
                 <br/>
                 {% if event.attendees != 0 %}
-                    <p>{{ event.attendees }} attendees</p>         
+                    <p>{{ event.attendees }} participantes</p>         
                 {% endif %}
       
             </a>

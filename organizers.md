@@ -1,25 +1,25 @@
 ---
 layout: page
-title: creator 
-permalink: /creator/
+title: criador 
+permalink: /criador/
 ---
 <p> 
 <img src="{{ site.baseurl }}/img/organizers/paola.jpg" height="140" width="140" align="right" >
-<li>Python Developer.</li>
-<li>Systems Analyst, formed by Unesa (Brazil)</li>
+<li>Desenvolvedora Python .</li>
+<li>Analista de Sistemas, formada pela Unesa</li>
 
-<li>Involved with communities:
+<li>Envolvida com as comunidades:
     <ul>Google Developers Group Rio de Janeiro, Mendoza</ul>
     <ul>Women Techmakers</ul>
-    <ul>Pyladies Brazil, Rio de Janeiro</ul>
-    <ul>Co-creator of Pyladies Mendoza</ul>
-    <ul>Django Girls: Rio de Janeiro, Mendoza, Euro Python, Python Brazil</ul>
+    <ul>Pyladies Brasil, Rio de Janeiro</ul>
+    <ul>Co-criadora of Pyladies Mendoza</ul>
+    <ul>Django Girls: Rio de Janeiro, Mendoza, Euro Python, Python Brasil</ul>
 </li>
 
 <br>
-<li>Speaker at Euro Python 2016</li>
-<li>DevDay Conference Creator</li>
+<li>Palestrante na Euro Python 2016</li>
+<li>Criadora do DevDay Conference </li>
 
-<li><a href="https://www.youtube.com/pkpacheco">Youtube channel with Django tutorials</a></li>
+<li><a href="https://www.youtube.com/pkpacheco">Canal no YouTube com tutoriais de Django</a></li>
 <li><a href="about.me/pkcpweb">about.me/pkcpweb</a></li>
 </p>
