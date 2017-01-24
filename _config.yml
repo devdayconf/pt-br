@@ -2,8 +2,8 @@
 title: Dev Day Conf 
 email: "devdayconf@gmail.com"
 description: Event for all communities.
-baseurl: "/pt"
-# url: "/pt"
+baseurl: "/devdayconf.github.io"
+url: "/pt"
 # twitter_username: _devdayconf
 # github_username: devdayconf
 
