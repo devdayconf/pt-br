@@ -19,10 +19,10 @@ Com o evento, pretendemos que as empresas da cidade se conectem com as pessoas. 
 
 #### Evento
 
-* Todas as despesas deverão ficar em alguma planilha onde os participantes podem ter acesso.</li>
-* O evento deve ser realizado em apenas 1 dia com a quantidade de tracks que a organização achar necessário. </li>
-* Todas as tracks devem seguir o padrão de horário. Exemplo: 14:00 - 15:30 Workshop, ou seja, todas as salas devem ter a mesma programação de acordo com os horários. </li>
-* O Layout do evento será cedido pelo DevDay Conf.</li>
+* Todas as despesas deverão ficar em alguma planilha onde os participantes podem ter acesso.
+* O evento deve ser realizado em apenas 1 dia com a quantidade de tracks que a organização achar necessário. 
+* Todas as tracks devem seguir o padrão de horário. Exemplo: 14:00 - 15:30 Workshop, ou seja, todas as salas devem ter a mesma programação de acordo com os horários. 
+* O Layout do evento será cedido pelo DevDay Conf.
 * Para solicitar o evento na sua cidade basta solicitar no formulário.
 <br>
 
