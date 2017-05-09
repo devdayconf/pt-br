@@ -1,0 +1,58 @@
+
+# Anti-harassment policy
+
+We have an official policy against the harassment of events and activities of DevDay Conference.
+
+##Goal
+
+The DevDay Conference is dedicated to providing a free event for all and without harassment.
+We cherish an event for everyone regardless of:
+- genre
+- Sexual Orientation
+Disability
+- Gender identity
+- it was
+- the religion
+- Nationality
+
+## The harassment
+
+Harassment includes (but is not limited to):
+- Offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion
+- The use or display of sexual images in public spaces
+- deliberate intimidation
+- The chase
+- Photographing harassment or recording
+- Change of voice or other events
+- inadequate physical contact
+- Unwanted sexual attention
+
+This is not a complete list - we do not tolerate the harassment of event participants in any way.
+
+## How to proceed
+
+If a participant who asks to stop any harassing behavior, it must be attended to immediately.
+
+If you are being harassed, noticing that someone is being harassed, or any other concern, contact organizers or volunteers immediately.
+Please, give us:
+- the data of who was harassing (name, identification in the credential)
+- What the person was doing
+- how many times and how long did the situation last
+- who was on the spot
+- whether other people were involved
+
+The organizers will investigate the problem and take appropriate action. This may include helping participants get in touch with local security or local police.
+
+The organization will take appropriate measures with those who have harassed it and may establish norms of behavior that, if they are not fulfilled, may request withdrawal from the event and even create a ban on future events.
+
+All, including partners, exhibitors, speakers and guests are also subject to the anti-harassment policy.
+
+
+Contact: devdayconf@gmail.com
+
+While we hope that we never have to invoke this policy, we believe that having this document helps everyone to think a bit more about how their actions and words affect the entire community as well as the individuals in the community.
+
+### License and Assignment
+
+This policy is based on a number of other policies, including the Ohio LinuxFest harassment policy, written by Esther Filderman and Beth Lynn Eicher, and anti-Harassment Project Generation Policies Mary Gardiner, Valerie Aurora, Sarah Smith , Donna Benjamin and Pycon Portland adopted from the Ada Initiative's guide.  Many LinuxChix members, Feminism geek and other groups contributed to this work.
+

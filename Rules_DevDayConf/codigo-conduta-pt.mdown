@@ -1,0 +1,56 @@
+# Política anti-assédio
+
+Temos uma política oficial contra o assédio de eventos e atividades da Conferência DevDay.
+
+##Objetivo
+
+A Conferência DevDay é dedicada a fornecer um evento gratuito para todos e sem assédio.
+Apreciamos um evento para todos, independentemente de:
+Gênero
+- Orientação Sexual
+Incapacidade
+- Identidade de gênero
+- isso foi
+- a religião
+- Nacionalidade
+
+## O assédio
+
+O assédio inclui (mas não está limitado a):
+- Comentários verbais ofensivos relacionados ao gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião
+- O uso ou exibição de imagens sexuais em espaços públicos
+- intimidação deliberada
+- A caçada
+- Fotografar assédio ou gravação
+- Mudança de voz ou outros eventos
+- contacto físico inadequado
+- Atenção sexual indesejada
+
+Esta não é uma lista completa - não toleramos o assédio de participantes do evento de qualquer maneira.
+
+## Como proceder
+
+Se um participante que pede para parar qualquer comportamento de assédio, deve ser atendido imediatamente.
+
+Se você está sendo assediado, percebendo que alguém está sendo assediado, ou qualquer outra preocupação, entre em contato com organizadores ou voluntários imediatamente.
+Por favor, dê-nos:
+- os dados de quem foi assediado (nome, identificação na credencial)
+- O que a pessoa estava fazendo
+- quantas vezes e quanto tempo durou a situação
+- quem estava no local
+- se outras pessoas estavam envolvidas
+
+Os organizadores irão investigar o problema e tomar as medidas adequadas. Isso pode incluir ajudar os participantes a entrar em contato com a segurança local ou com a polícia local.
+
+A organização tomará as medidas adequadas com aqueles que a perseguiram e poderá estabelecer normas de comportamento que, se não forem cumpridas, podem solicitar a retirada do evento e até mesmo criar uma proibição de eventos futuros.
+
+Todos, incluindo parceiros, expositores, palestrantes e convidados, também estão sujeitos à política anti-assédio.
+
+
+Contato: devdayconf@gmail.com
+
+Embora esperemos que nunca tenhamos de invocar esta política, acreditamos que ter este documento ajuda a todos a pensar um pouco mais sobre como suas ações e palavras afetam toda a comunidade, bem como os indivíduos na comunidade.
+
+### Licença e Atribuição
+
+Esta política é baseada em uma série de outras políticas, incluindo a política de Ohio assédio LinuxFest, escrito por Esther Filderman e Beth Lynn Eicher, e anti-Assédio Project Generation Políticas Mary Gardiner, Valerie Aurora, Sarah Smith, Donna Benjamin e Pycon Portland adoptado a partir de O guia da Iniciativa Ada. Muitos membros do LinuxChix, o feminismo geek e outros grupos contribuíram para este trabalho.

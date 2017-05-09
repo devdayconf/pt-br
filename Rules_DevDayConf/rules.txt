@@ -1,13 +1,12 @@
 DevDay is a free event where the goal is to bring together people who work with technology. From a student, someone who has an interest in technology, to an expert.
 Our goal is to make even an expert access to basic content of something you do not know.
-With the event, we aim to get companies in the city to connect with people and to connect people to each other, creating future meetings for interaction.
+With the event, we aim to get companies in the city to connect with people and connect people to each other, creating future meetings for interaction.
 
 Event Rules:
 
 -> Event <-
 
-- All expenses must be in some spreadsheet where the participants can have access.
-- The event must be performed in just 1 day with the amount of tracks that the organization deems necessary.
+- The event must be done in just 1 day with the amount of tracks that the organization deems necessary.
 - All tracks must follow the time pattern. Example: 14:00 - 15:30 Workshop, ie all rooms must have the same schedule according to the schedules.
 - Event Layout will be provided by DevDay Conf.
 - To request the event in your city just ask in the form.
@@ -16,24 +15,20 @@ Event Rules:
 - The event must be free.
 - The entrance of the event will be allowed through a donation. (Electronic waste, food among others)
 - The choice of the type of donation is at the discretion of the organization.
-- If you can not get enough sponsorship, you can only charge the event shirt.
-- You can charge some value on the shirts so that it helps in the expenses of food and if it is the case in collaboration with the open source project.
+- If you can not get enough sponsorship, you can charge the event's T-shirt and any kind of food.
 
 
 -> Open Source Project <-
 - There must be a registration form forOpen Source projects.
 - There must be a voting form for the Open Source projects, which will be done by the participants of the event.
-- The result of the voting should be open to the public. Only the top 3 can be displayed.
+- The result of the voting should be open to the public.
 - The registered Project must be part of the country of the event.
-- The event can open a donation campaign so that the amount collected is donated to the Best Open Source project if it does not have a high number of sponsors.
+- The event can open a donation campaign so that the amount collected is donated to the Best Open Source project.
+- The winning project (or the first ones) earns the right to a talk.
 
 
 -> Speakers <-
 - The registration of lectures will be made by a Call4Papers and will be chosen by choice of the organizers.
-- The choice should prevail numerous subjects and subjects of palestas, avoiding to repeat for example programming languages ​​and / or tools.
-- The choice must also take into consideration the levels, so the programming should contain basic and intermediate content. No advanced content is prohibited, but they are not indicated for the type of event.
+- The choice should prevail numerous subjects and themes of palestas, avoiding to repeat for example programming languages ​​and / or tools.
+- The choice should also take into account the levels, so the programming should contain basic and intermediate content. No advanced content is prohibited, but they are not suitable for the type of event.
 - The speaker will be able to win the event's free shirt and the free gifts distributed during the event.
-
-
-
-

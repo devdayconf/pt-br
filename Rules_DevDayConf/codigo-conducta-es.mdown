@@ -1,0 +1,56 @@
+Política contra el acoso
+
+Tenemos una política oficial contra el acoso de los eventos y actividades de la Conferencia DevDay.
+
+##Gol
+
+La Conferencia de DevDay se dedica a proporcionar un evento gratuito para todos y sin acoso.
+Apreciamos un evento para todos, independientemente de:
+Género
+- Orientación Sexual
+Discapacidad
+- Identidad de género
+- era
+- la religion
+- Nacionalidad
+
+## El acoso
+
+El acoso incluye (pero no se limita a):
+- Comentarios verbales ofensivos relacionados con género, orientación sexual, discapacidad, identidad de género, edad, raza, religión
+- El uso o visualización de imágenes sexuales en espacios públicos
+Intimidación deliberada
+- La persecución
+- Fotografiar el acoso o la grabación
+- Cambio de voz u otros eventos
+- contacto físico inadecuado
+- Atención sexual no deseada
+
+Esta no es una lista completa - no toleramos el acoso de los participantes del evento de ninguna manera.
+
+## Cómo proceder
+
+Si un participante que pide para detener cualquier comportamiento de acoso, debe ser atendido de inmediato.
+
+Si está siendo acosado, notando que alguien está siendo acosado, o cualquier otra preocupación, contacte a los organizadores o voluntarios inmediatamente.
+Por favor, darnos:
+- los datos de quién fue acosador (nombre, identificación en la credencial)
+- Lo que la persona estaba haciendo
+¿Cuántas veces y cuánto duró la situación?
+Quien estaba en el lugar
+- si otras personas estaban involucradas
+
+Los organizadores investigarán el problema y tomarán las medidas apropiadas. Esto puede incluir ayudar a los participantes a ponerse en contacto con la seguridad local o la policía local.
+
+La organización tomará las medidas apropiadas con quienes la han acosado y podrá establecer normas de conducta que, si no se cumplen, pueden solicitar la retirada del evento e incluso la prohibición de eventos futuros.
+
+Todos, incluidos socios, expositores, oradores e invitados, también están sujetos a la política contra el acoso.
+
+
+Contacto: devdayconf@gmail.com
+
+Aunque esperamos que nunca tengamos que invocar esta política, creemos que tener este documento ayuda a todos a pensar un poco más acerca de cómo sus acciones y palabras afectan a toda la comunidad, así como a los individuos de la comunidad.
+
+### Licencia y Asignación
+
+Esta política se basa en una serie de otras políticas, incluyendo la política de acoso de Ohio LinuxFest, escrita por Esther Filderman y Beth Lynn Eicher, y las políticas de generación de proyectos contra el acoso Mary Gardiner, Valerie Aurora, Sarah Smith, Donna Benjamin y Pycon Portland. La guía de la Iniciativa Ada. Muchos miembros de LinuxChix, geek del feminismo y otros grupos contribuyeron a este trabajo.
