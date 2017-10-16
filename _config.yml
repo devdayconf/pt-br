@@ -3,9 +3,9 @@ title: + Con
 email: "masconferencia@gmail.com"
 description: Event for all.
 baseurl: "/pt-br"
-# url: "/argentinadevday"
-# twitter_username: _devdayconf
-# github_username: devdayconf
+# url: "/mascon"
+# twitter_username: _mascon
+# github_username: mas-con
 
 # Build settings
 markdown: kramdown
