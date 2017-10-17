@@ -28,34 +28,4 @@ collections:
     permalink: /events/:path/
   contact:
     output: true
-    permalink: /contact/:path/# Site settings
-title: Dev Day Conference 
-email: "devdayconf@gmail.com"
-description: Event for all communities.
-baseurl: "/pt-br"
-# url: "/pt-br"
-# twitter_username: _devdayconf
-# github_username: devdayconf
-
-# Build settings
-markdown: kramdown
-
-highlighter: green
-
-
-collections:
-  home:
-    output: true
-    permalink: /home/:path/
-  creator:
-    output: true
-    permalink: /creator/:path/
-  rules:
-    output: true
-    permalink: /rules/:path/
-  events:
-    output: true
-    permalink: /events/:path/
-  contact:
-    output: true
     permalink: /contact/:path/
